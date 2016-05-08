@@ -8,3 +8,5 @@ INSTRUCTIONS:
 Press SPACEBAR To advance to the next prime number
 
 click on any digit to advance the counter
+
+The 40,993 prime is 492,113.  The gap (114) to the next prime number (492,227), is the largest gap between primes < 1,000,000.
