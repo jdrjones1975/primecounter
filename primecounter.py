@@ -143,8 +143,7 @@ def main():
                         onesplace += 1
                         textone = numFont.render(str(onesplace), True, WHITE)
                         count = count + 1
-
-                print(count)                
+              
         # ALL EVENT PROCESSING SHOULD GO ABOVE THIS COMMENT
  
         # ALL GAME LOGIC SHOULD GO BELOW THIS COMMENT
